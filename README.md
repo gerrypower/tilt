@@ -1,4 +1,4 @@
-# TITL - Things I Learned Today
+# TILT - Things I Learned Today
 
 This repository contains a collection of things I learned today.
 
